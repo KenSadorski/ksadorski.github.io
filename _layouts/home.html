@@ -1,15 +1,30 @@
-<div class="intro">
-  {{ content }}
-</div>
-<section class="projects">
-  <h2>Featured Projects</h2>
-  <ul>
-    {% for project in site.data.projects %}
-      <li>
-        <h3>{{ project.name }}</h3>
-        <p>{{ project.description }}</p>
-        <p><strong>Tech:</strong> {{ project.tech }}</p>
-        <a href="{{ project.link }}" target="_blank">View on GitHub</a>
-      </li>
-  </ul>
-</section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+</head>
+<body>
+  {% include sidebar.html %}
+  <div class="main-content">
+    {% include header.html %}
+    <section class="projects">
+      <h2>Featured Projects</h2>
+      <ul>
+        {% for project in site.data.projects %}
+          <li class="project-card">
+            <h3>{{ project.name }}</h3>
+            <p>{{ project.description }}</p>
+            <p><strong>Tech:</strong> {{ project.tech }}</p>
+            <a href="{{ project.link }}" target="_blank">View on GitHub</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {{ content }}
+    {% include footer.html %}
+  </div>
+</body>
+</html>
