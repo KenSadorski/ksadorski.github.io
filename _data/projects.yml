@@ -1,9 +1,3 @@
-- name: "Log Analysis with Splunk"
-  description: "Analyzing and visualizing network logs to identify security anomalies."
-  tech: "Splunk, Python"
-  link: "https://github.com/ksadorski/log-analysis-splunk"
-
-- name: "Security Automation with Powershell"
-  description: "Automating endpoint monitoring using Powershell scripts."
-  tech: "Powershell"
-  link: "https://github.com/ksadorski/security-automation"
+projects:
+  - status: "under construction"
+  - message: "Projects section is coming soon. Stay tuned for updates on my latest work in cybersecurity and automation!"
