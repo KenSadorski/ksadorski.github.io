@@ -7,21 +7,23 @@ title: "Resume"
 
 ## Summary
 {% for item in site.data.resume.summary %}
-  - {{ item }}
+- {{ item }}
 {% endfor %}
 
 ## Experience
 {% for job in site.data.resume.experience %}
-  - **{{ job.title }}** at *{{ job.company }}* ({{ job.duration }})
-    - {{ job.description }}
+- **{{ job.title }}** at *{{ job.company }}* ({{ job.duration }})
+{% for point in job.description %}
+  - {{ point }}
+{% endfor %}
 {% endfor %}
 
 ## Education
 {% for edu in site.data.resume.education %}
-  - {{ edu.degree }}, {{ edu.institution }} ({{ edu.year }})
+- {{ edu.degree }}, {{ edu.institution }} ({{ edu.year }})
 {% endfor %}
 
 ## Skills
 {% for skill in site.data.resume.skills %}
-  - {{ skill }}
+- {{ skill }}
 {% endfor %}
