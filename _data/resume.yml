@@ -1,0 +1,67 @@
+summary:
+  - "Cybersecurity Analyst with expertise in SIEM tools, log analysis, scripting, and network security protocols, dedicated to securing systems through threat detection, incident response, and compliance frameworks."
+
+experience:
+  - title: "System Engineer"
+    company: "Tanium"
+    duration: "10/2023 - current"
+    description: |
+      - Detected and neutralized 50+ security threats with Tanium Threat Response, reducing system vulnerabilities.
+      - Resolved 150+ system issues with a 95% success rate, analyzing Windows OS behavior.
+      - Improved performance by 20% through optimized use of Tanium tools like Prometheus.
+      - Customized code in VB, PowerShell, and Python to automate security protocols.
+      - Led incident response for 100+ clients, mitigating threats within 4 hours on average.
+      - Conducted integrity monitoring, detecting unauthorized changes for 50+ clients.
+      - Achieved Tanium SME status, specializing in Discovery and OS troubleshooting.
+      - Streamlined vulnerability management for 100+ endpoints, achieving 95% compliance in 60 days.
+      - Integrated Tanium with SIEM tools, enhancing endpoint security for over 5,000 devices.
+
+  - title: "Virtual Infrastructure Analyst"
+    company: "RL Canning"
+    duration: "01/2022 - 10/2023"
+    description: |
+      - Enhanced Citrix security through role-based access in DaaS, improving productivity.
+      - Boosted Splunk onboarding log accuracy by 25% and integration speed by 40%.
+      - Created Splunk alerts for rapid threat detection and performance optimization.
+      - Managed Okta MFA and Citrix cloud migrations, bolstering authentication security.
+      - Coordinated Citrix controller migration, reducing security breaches across teams.
+      - Configured security for 50+ Citrix workstations to minimize vulnerabilities and ensure policy compliance.
+
+  - title: "System Administrator"
+    company: "Dialog Direct: A Qualfon Company"
+    duration: "08/2018 - 01/2022"
+    description: |
+      - Promoted from Senior Desktop Support for leadership in security protocols.
+      - Strengthened security using custom Splunk dashboards for incident analysis.
+      - Enhanced GPO settings, reducing vulnerabilities by 50% within a year.
+      - Led migration projects, securing 500+ devices with updated policies.
+      - Managed secure domain migrations, improving access control and productivity.
+      - Developed scripts for automated log analysis and patch management on Windows and Linux, increasing efficiency by 40%.
+      - Collaborated with IT and security teams to enforce zero-trust policies, reducing unauthorized access incidents by 25%.
+
+education:
+  - degree: "AAS Network Security Professional"
+    institution: "Macomb Community College"
+    gpa: "3.7"
+    honors: "Magna Cum Laude; Dean's List"
+
+skills:
+  - "SIEM Tools: Experienced with Splunk for log analysis, threat detection, and security monitoring."
+  - "Log Analysis: Expertise in analyzing logs for anomaly detection and incident response."
+  - "Network Protocols: Proficient in TCP, UDP, DNS, and SSL/TLS for secure communications."
+  - "PCAP Analysis: Skilled in Wireshark for traffic analysis and threat detection."
+  - "Incident Handling: Experienced in incident response and mitigation."
+  - "Security Frameworks: Knowledgeable in NIST and ISO compliance frameworks."
+  - "Windows Systems: Proficient in securing Windows workstations and servers."
+  - "Endpoint Security: Extensive knowledge of Tanium for on-prem/cloud environments."
+  - "Scripting: Proficient in Powershell, Bash, and Python for automation."
+
+certifications:
+  - name: "CompTIA CySA+"
+  - name: "Splunk Certified Core User"
+  - name: "CompTIA Security+"
+  - name: "CompTIA Network+"
+  - name: "Coursera Google Cybersecurity"
+  - name: "Microsoft Azure Fundamentals"
+  - name: "Tanium Certified Administrator"
+  - name: "Tanium Certified Operator"
