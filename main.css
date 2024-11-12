@@ -1,0 +1,26 @@
+/* CyberTrack Theme - main.css */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #e0e0e0;
+  background-color: #1a1a1a;
+  line-height: 1.6;
+}
+
+a {
+  color: #0db7ed;
+  text-decoration: none;
+}
+
+.sidebar {
+  background-color: #101010;
+  padding: 15px;
+  color: #0db7ed;
+}
+
+.project-card {
+  background-color: #2a2a2a;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+}
