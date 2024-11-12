@@ -1,0 +1,46 @@
+certifications:
+
+  - name: "CompTIA CSAP"
+    organization: "CompTIA"
+    url: "https://www.credly.com/badges/b4a5639e-53ae-44b9-8ef1-b82f7d904814/public_url" # Replace with actual URL if available
+    year: "2024"
+    
+  - name: "CompTIA CySA+"
+    organization: "CompTIA"
+    url: "https://www.credly.com/badges/e6c074a0-d25e-4dc4-bdbd-c4d6b69f6bee/public_url" # Replace with actual URL if available
+    year: "2024"
+
+  - name: "Splunk Certified Core User"
+    organization: "Splunk"
+    url: "https://www.credly.com/badges/71bdd52c-1baf-426b-8e95-14366cb556fe/public_url"
+    year: "2024"
+
+  - name: "CompTIA Security+"
+    organization: "CompTIA"
+    url: "https://www.credly.com/badges/6858eb8b-e03b-46a0-b2a6-4d614f95d46d/public_url"
+    year: "2023"
+
+  - name: "CompTIA Network+"
+    organization: "CompTIA"
+    url: "https://www.credly.com/badges/f6aa9f4e-f524-4d40-9d4f-1b6f2bac9269/public_url"
+    year: "2023"
+
+  - name: "Google Cybersecurity"
+    organization: "Coursera"
+    url: "https://www.credly.com/badges/198f61b0-d509-4015-aa81-0f365b6cb26c/public_url"
+    year: "2023"
+
+  - name: "Microsoft Azure Fundamentals"
+    organization: "Microsoft"
+    url: "https://learn.microsoft.com/api/credentials/share/en-us/KenSadorski-8112/C9F2646932D5E8E6?sharingId=5ED4352C33ADB527"
+    year: "2023"
+
+  - name: "Tanium Certified Administrator"
+    organization: "Tanium"
+    url: "https://www.credly.com/badges/466fbcd2-dbeb-4901-869e-80abd1cb2953"
+    year: "2024"
+
+  - name: "Tanium Certified Operator"
+    organization: "Tanium"
+    url: "https://www.credly.com/badges/09d5d116-87f3-4a81-9778-daf481a6a605"
+    year: "2023"
