@@ -34,7 +34,7 @@ This folder contains various technical reports showcasing my skills in network d
   - VLAN allocation for VOIP and other network services.
   
 ### 5. Security Analysis
-- **Description**: A comprehensive vulnerability assessment conducted for Supreme Wireless, covering network security, physical security, and user education.
+- **Description**: A comprehensive vulnerability assessment conducted for a business, covering network security, physical security, and user education.
 - **Highlights**:
   - Identification of top security risks, including unsecured wireless devices and lack of password protection.
   - Evaluation of network and wireless security measures, including WPA-2 encryption and firewall configuration.
