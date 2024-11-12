@@ -6,26 +6,26 @@ experience:
     company: "Tanium"
     duration: "10/2023 - current"
     description: |
-      - Detected and neutralized 50+ security threats with Tanium Threat Response, reducing system vulnerabilities.
-      - Resolved 150+ system issues with a 95% success rate, analyzing Windows OS behavior.
-      - Improved performance by 20% through optimized use of Tanium tools like Prometheus.
-      - Customized code in VB, PowerShell, and Python to automate security protocols.
-      - Led incident response for 100+ clients, mitigating threats within 4 hours on average.
-      - Conducted integrity monitoring, detecting unauthorized changes for 50+ clients.
-      - Achieved Tanium SME status, specializing in Discovery and OS troubleshooting.
-      - Streamlined vulnerability management for 100+ endpoints, achieving 95% compliance in 60 days.
-      - Integrated Tanium with SIEM tools, enhancing endpoint security for over 5,000 devices.
+      - Identified and eradicated 50+ security threats with Tanium Threat Response, boosting system resilience.
+      - Resolved 150+ Windows OS system issues, achieving a 95% success rate.
+      - Boost performance by 20% through optimized use of Tanium tools like Prometheus.
+      - Developed automation scripts in VB, PowerShell, and Python that strengthened security protocols, slashing system vulnerabilities by 25%.
+      - Led incident response for over 100 clients, utilizing Tanium to mitigate threats within 4 hours on average.
+      - Conduct integrity monitoring, detecting unauthorized changes for 50+ clients.
+      - Secured Tanium SME status, leading to a 20% enhancement in operational efficiency through focused Discovery and OS troubleshooting expertise.
+      - Enhanced security posture by streamlining vulnerability management across 100+ endpoints, achieving 95% compliance in 60 days with Tanium Comply.
+      - Integrate Tanium with SIEM tools, streamlining endpoint security for 5K+ devices.
 
   - title: "Virtual Infrastructure Analyst"
     company: "RL Canning"
     duration: "01/2022 - 10/2023"
     description: |
-      - Enhanced Citrix security through role-based access in DaaS, improving productivity.
-      - Boosted Splunk onboarding log accuracy by 25% and integration speed by 40%.
-      - Created Splunk alerts for rapid threat detection and performance optimization.
-      - Managed Okta MFA and Citrix cloud migrations, bolstering authentication security.
-      - Coordinated Citrix controller migration, reducing security breaches across teams.
-      - Configured security for 50+ Citrix workstations to minimize vulnerabilities and ensure policy compliance.
+      - Streamlined Citrix security with role-based access control in DaaS, boosting operational efficiency by 20%.
+      - Streamlined Splunk onboarding, boosting log accuracy by 25% and integration speed by 40%.
+      - Developed Splunk alerts enhancing threat detection by 30% and optimizing system performance by 25%.
+      - Spearheaded Okta MFA and Citrix transition, achieving a 40% improvement in system security.
+      - Orchestrated Citrix controller migration, securing networks and reducing breaches by 40% for 5 teams.
+      - Implemented security configurations across 50+ Citrix workstations, minimizing vulnerabilities and ensuring compliance with security policies..
 
   - title: "System Administrator"
     company: "Dialog Direct: A Qualfon Company"
