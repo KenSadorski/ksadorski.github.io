@@ -31,3 +31,12 @@ footer {
   background-color: #101010;
   color: #e0e0e0;
 }
+footer ul {
+  list-style-type: none; /* Removes bullet points */
+  padding: 0; /* Removes default padding */
+}
+
+footer ul li {
+  display: inline; /* Display items in a row */
+  margin-right: 10px; /* Adds spacing between items */
+}
