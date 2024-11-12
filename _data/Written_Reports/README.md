@@ -11,6 +11,7 @@ This folder contains various technical reports showcasing my skills in network d
   - Implementation of wireless access points and a new ASA 5585 firewall.
   - Plan for a 5% growth in network capacity over the next five years.
   - Enhanced security features, including centralized log monitoring and VPN support.
+  - Please see the VLAN_revised.xlsx document for additional information 
   
 ### 2. Business Proposal (Revised)
 - **Description**: A strategic proposal aimed at improving employee satisfaction and operational efficiency within a business.
