@@ -1,0 +1,15 @@
+title: "Ken Sadorski | Cybersecurity Analyst"
+description: "A professional portfolio showcasing my skills and projects in cybersecurity."
+theme: jekyll-theme-minimal
+baseurl: "/"
+url: "https://github.com/ksadorski"
+
+# Customization
+author: "Ken Sadorski"
+social_links:
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com"
+  - title: "GitHub"
+    url: "https://github.com/ksadorski"
+  - title: "TryHackMe"
+    url: "https://tryhackme.com"
