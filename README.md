@@ -161,8 +161,6 @@ Video walkthroughs and tutorials demonstrating cybersecurity techniques and tool
 Please note, you will have to download these files to view them as they are too large to be hosted on github. 
 I am in the process of creating a YouTube channel for content such as this. 
 
-# Video Descriptions
-
 ### 1. `RAT_Demo.webm`
 - **Description**: Demonstrates the detection and analysis of a Remote Access Trojan (RAT).
 - **Highlights**:
@@ -178,7 +176,6 @@ I am in the process of creating a YouTube channel for content such as this.
   - Covers techniques for monitoring and restricting RDP access to improve security posture.
 
 ### These videos demonstrate my hands-on experience with security practices and tools, emphasizing both detection and prevention techniques. Each video is intended to provide insight into real-world cybersecurity applications.
----
 
 - **[RAT Demo](./assets/Video_Demos/RAT_Demo.webm):** Demonstrates detection and analysis of a Remote Access Trojan (RAT).
 - **[RDP Security Guide](./assets/Video_Demos/RDPSecurity.webm):** Guide on securing Remote Desktop Protocol (RDP) connections.
