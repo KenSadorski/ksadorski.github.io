@@ -45,6 +45,8 @@ Professional reports detailing network design, security assessments, and policie
 
 ### Video Demonstrations
 Video walkthroughs and tutorials demonstrating cybersecurity techniques and tools.
+Please note, you will have to download these files to view them as they are too large to be hosted on github. 
+I am in the process of creating a YouTube channel for content such as this. 
 
 - **[RAT Demo](./assets/Video_Demos/RAT_Demo.webm):** Demonstrates detection and analysis of a Remote Access Trojan (RAT).
 - **[RDP Security Guide](./assets/Video_Demos/RDPSecurity.webm):** Guide on securing Remote Desktop Protocol (RDP) connections.
