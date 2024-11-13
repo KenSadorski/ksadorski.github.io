@@ -4,14 +4,14 @@ This folder contains video demonstrations showcasing practical applications of s
 
 ## Videos Included
 
-### 1. `RAT_Demo.mp4`
+### 1. `RAT_Demo.webm`
 - **Description**: Demonstrates the detection and analysis of a Remote Access Trojan (RAT).
 - **Highlights**:
   - Explains how a RAT operates and its potential impact on network security.
   - Shows step-by-step procedures for identifying RAT activity within a network.
   - Discusses key indicators of compromise (IOCs) and the importance of monitoring.
 
-### 2. `RDPSecurity.mp4`
+### 2. `RDPSecurity.webm`
 - **Description**: A guide on securing Remote Desktop Protocol (RDP) connections.
 - **Highlights**:
   - Provides an overview of RDP security risks and best practices.
