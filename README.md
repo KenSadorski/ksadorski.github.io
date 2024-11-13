@@ -16,10 +16,7 @@ Welcome to my professional GitHub Pages portfolio, showcasing my projects, skill
 
 ## Projects
 
-### Python Scripts
 # Python Scripts
-
-## Scripts Included
 
 ### 1. `tokens.py`
 - **Description**: Tracks the number of tokens won over multiple game rounds.
