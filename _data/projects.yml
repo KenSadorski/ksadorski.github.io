@@ -3,10 +3,10 @@ projects:
     items:
       - name: "Token Counter"
         description: "Tracks tokens won over multiple games."
-        link: "/assets/Scripts/Python/tokens.py"
+        link: "https://github.com/ksadorski/ksadorski.github.io/raw/main/assets/Scripts/Python/tokens.py"
       - name: "Sorting Example"
         description: "Demonstrates list sorting techniques."
-        link: "/assets/Scripts/Python/SortingInPython.py"
+        link: "https://github.com/ksadorski/ksadorski.github.io/raw/main/assets/Scripts/Python/SortingInPython.py"
       - name: "Login Script"
         description: "Implements a simple login authentication system with limited attempts."
         link: "/assets/Scripts/Python/Login_Script.py"
