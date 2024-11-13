@@ -64,7 +64,7 @@ For more details on certifications, view **Certifications:** [https://kensadorsk
 My resume, showcasing my experience and skills, is available upon request or viewable [here](./_data/resume.yml) (in YAML format).
 
 ## Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/ken-sadorski-cyber/](#)
+- **LinkedIn:** [https://www.linkedin.com/in/ken-sadorski-cyber/]
 - **Email:** [ksadorski@koiosknowledge.com](mailto:ksadorski@koiosknowledge.com)
 
 ---
