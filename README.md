@@ -51,6 +51,8 @@ Video walkthroughs and tutorials demonstrating cybersecurity techniques and tool
 
 ## Certifications
 View a list of my professional certifications in cybersecurity, including:
+- **CompTIA CySA+**
+- **Splunk Certified Core User**
 - **CompTIA Security+**
 - **CompTIA Network+**
 - **Google Cybersecurity**
