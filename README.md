@@ -191,8 +191,6 @@ View a list of my professional certifications in cybersecurity, including:
   
 For more details on certifications, view **Certifications:** [https://kensadorski.github.io/ksadorski.github.io/certifications]
 
----
-
 ## Resume
 My resume, showcasing my experience and skills, is available upon request or viewable [here](./_data/resume.yml) (in YAML format).
 
