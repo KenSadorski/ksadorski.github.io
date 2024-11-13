@@ -14,7 +14,7 @@ Welcome to my professional GitHub Pages portfolio, showcasing my projects, skill
 
 ---
 
-#Projects
+# Projects
 
 ## Python Scripts
 
