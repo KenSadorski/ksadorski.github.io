@@ -47,7 +47,7 @@ Professional reports detailing network design, security assessments, and policie
 Video walkthroughs and tutorials demonstrating cybersecurity techniques and tools.
 
 - **[RAT Demo](./assets/Video_Demos/RAT_Demo.mp4):** Demonstrates detection and analysis of a Remote Access Trojan (RAT).
-- **[RDP Security Guide](./assets/Video_Demos/RDPSecurity.mp4):** Guide on securing Remote Desktop Protocol (RDP) connections.
+- **[RDP Security Guide](./assets/Video_Demos/RDPSecurity.webm):** Guide on securing Remote Desktop Protocol (RDP) connections.
 
 ## Certifications
 View a list of my professional certifications in cybersecurity, including:
