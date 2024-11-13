@@ -77,11 +77,9 @@ Each script demonstrates my familiarity with Python's built-in libraries and bas
 - **[Redacted Report Generator](./assets/Scripts/Python/redactedreport.py):** Redacts sensitive information from a document based on specific keywords.
 - **[Home Network IP Scanner](./assets/Scripts/Python/home_network_ip_scanner.py):** Scans a specified IP range to detect active devices and retrieve hostnames.
 
-### PowerShell Scripts
+## PowerShell Scripts
 Collection of PowerShell scripts focused on network automation, configuration, and analysis.
-
-## Scripts Included
-
+---
 ### 1. `DomainJoin_improved.ps1`
 - **Description**: Automates the process of joining a Windows computer to a domain.
 - **Key Features**:
