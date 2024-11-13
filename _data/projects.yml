@@ -45,7 +45,7 @@ projects:
         link: "/assets/Written_Reports/BusinessProposal_revised.pdf"
       - name: "Acceptable Use Policy"
         description: "Policy defining acceptable use of company resources to ensure security."
-        link: "/assets/Written_Reports/AcceptableUsePolicy_redacted.pdf"
+        link: "https://github.com/KenSadorski/ksadorski.github.io/blob/main/assets/Written_Reports/AcceptableUsePolicy_redacted.pdf"
       - name: "Network Diagram"
         description: "Diagram illustrating network architecture across departments and rooms."
         link: "/assets/Written_Reports/NetworkDiagram_redacted.pdf"
