@@ -56,7 +56,7 @@ View a list of my professional certifications in cybersecurity, including:
 - **Google Cybersecurity**
 - **Microsoft AZ-900** (Azure Fundamentals)
   
-For more details on certifications, view the [certifications.yml](./_data/certifications.yml) file.
+For more details on certifications, view [https://kensadorski.github.io/ksadorski.github.io/certifications]
 
 ## Resume
 My resume, showcasing my experience and skills, is available upon request or viewable [here](./_data/resume.yml) (in YAML format).
