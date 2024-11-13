@@ -14,9 +14,9 @@ Welcome to my professional GitHub Pages portfolio, showcasing my projects, skill
 
 ---
 
-## Projects
+# Projects
 
-# Python Scripts
+## Python Scripts
 
 ### 1. `tokens.py`
 - **Description**: Tracks the number of tokens won over multiple game rounds.
@@ -66,7 +66,7 @@ Welcome to my professional GitHub Pages portfolio, showcasing my projects, skill
   - Attempts to retrieve the hostname of active IPs.
   - Saves the scan results, including status and hostnames, to a text file.
 
-Each script demonstrates my familiarity with Python's built-in libraries and basic scripting concepts, tailored to various practical use cases. Feel free to explore the scripts and refer to their inline comments for additional details on their functionality.
+### Each script demonstrates my familiarity with Python's built-in libraries and basic scripting concepts, tailored to various practical use cases. Feel free to explore the scripts and refer to their inline comments for additional details on their functionality.
 ---
 
 - **[Token Counter](./assets/Scripts/Python/tokens.py):** Tracks tokens won over multiple games.
@@ -99,7 +99,7 @@ Each script demonstrates my familiarity with Python's built-in libraries and bas
   - Connects to a specified hostname and port to verify supported encryption protocols.
   - Outputs a summary of supported protocols and includes optional logging to a file.
 
-These scripts demonstrate my ability to automate system management tasks and perform network security checks using PowerShell. Each script is documented with comments to guide the user on setup and execution.
+### These scripts demonstrate my ability to automate system management tasks and perform network security checks using PowerShell. Each script is documented with comments to guide the user on setup and execution.
 ---
 - **[Domain Join Script](./assets/Scripts/PowerShell/DomainJoin_improved.ps1):** Automates joining a Windows computer to a domain using secure credentials.
 - **[WMI Queries](./assets/Scripts/PowerShell/WMIQueries.ps1):** Executes predefined WMI queries to retrieve specific system information.
@@ -148,8 +148,8 @@ This section contains various technical reports showcasing my skills in network 
   - Evaluation of network and wireless security measures, including WPA-2 encryption and firewall configuration.
   - Recommendations for improving physical security, user education, and AAA (Authorization, Authentication, Accounting) protocols.
 
-Each report demonstrates my analytical abilities and commitment to enhancing security and operational efficiency within IT environments.
-PLEASE NOTE: these reports have had images removed and PII redacted for security purposes. 
+### Each report demonstrates my analytical abilities and commitment to enhancing security and operational efficiency within IT environments.
+### PLEASE NOTE: these reports have had images removed and PII redacted for security purposes. 
 ---
 
 - **[Network Design Proposal](./assets/Written_Reports/NetworkDesignProposal_redacted.pdf):** Proposal for upgrading a network to managed Gigabit Ethernet.
@@ -179,7 +179,7 @@ I am in the process of creating a YouTube channel for content such as this.
   - Demonstrates methods to secure RDP, including configuring network-level authentication and implementing firewall rules.
   - Covers techniques for monitoring and restricting RDP access to improve security posture.
 
-These videos demonstrate my hands-on experience with security practices and tools, emphasizing both detection and prevention techniques. Each video is intended to provide insight into real-world cybersecurity applications.
+### These videos demonstrate my hands-on experience with security practices and tools, emphasizing both detection and prevention techniques. Each video is intended to provide insight into real-world cybersecurity applications.
 ---
 
 - **[RAT Demo](./assets/Video_Demos/RAT_Demo.webm):** Demonstrates detection and analysis of a Remote Access Trojan (RAT).
