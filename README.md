@@ -208,6 +208,7 @@ My resume, showcasing my experience and skills, is available upon request or vie
 ## Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/ken-sadorski-cyber/]
 - **Email:** [ksadorski@koiosknowledge.com](mailto:ksadorski@koiosknowledge.com)
+- **Try Hack Me:** [https://tryhackme.com/r/p/owloperator]
 
 ---
 
